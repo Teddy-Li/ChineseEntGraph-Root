@@ -1,4 +1,4 @@
-# Chinese Entailment Graph
+# Chinese Entailment Graph Root Repository
 
 This is the root repository for our Chinese entailment graph project, corresponding to the following paper at Findings of ACL 2022: [Cross-lingual Inference with A Chinese Entailment Graph](). This repository hosts the links to the collection of programs used in the process of constructing and 
 evaluating our Chinese Entailment Graph EG<sub>*Zh*</sub> and its baselines. Behind each link is
